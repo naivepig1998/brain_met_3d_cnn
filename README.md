@@ -8,7 +8,8 @@ The code is simple to run, please follow the following steps:
 3. go to src     
 `$ cd src`
 4. run the following command
-`$ python main.py --name test_run \   
+```
+ $ python main.py --name test_run \   
                   --image-size 256 \      
                   --debug False \     
                   --init-lr 3e-4 \    
@@ -19,4 +20,5 @@ The code is simple to run, please follow the following steps:
                   --seed 42 \     
                   --percentage 1 \      
                   --use-amp True \      
-                  --gpus [0,1,2]`
+                  --gpus [0,1,2]
+```
