@@ -1,0 +1,6 @@
+torch==1.7.0
+pandas
+scikit_learn
+monai
+albumentations
+matplotlib
